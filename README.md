@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # fetch-sre-take-home-assessment
-A program to load a configuration file, perform health checks, monitor endpoints, and log cumulative availability percentages
 =======
 If in IDE open this as "Preview" or in whatever view will allow for markdown.
 
