@@ -1,5 +1,6 @@
 # fetch-sre-take-home-assessment
-=======
+A program to load a configuration file, perform health checks, monitor endpoints, and log cumulative availability percentages
+
 If in IDE open this as "Preview" or in whatever view will allow for markdown.
 
 
@@ -65,8 +66,9 @@ This was done to account for endpoints responding in 500ms or less
 </ul>
 
 <h2>Resources Used</h2>
-Python documentation
-Yaml documentation
-A few stackoverflow references
-W3schools.com
->>>>>>> 7f344ce (Take home assessment with changes mentioned in README)
+<ul>
+<li>Python documentation</li>
+<li>Yaml documentation</li>
+<li>A few stackoverflow references</li>
+<li>W3schools.com</li>
+</ul>
